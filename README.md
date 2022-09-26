@@ -1,7 +1,7 @@
 ## Oiii eu sou o Samuel Mesquita da Fonseca, é um prazer te conhecer!
 
 - 🔭 Hoje trabalho com Full Stack
-- 🌱 Estudando Angular 
+- 🌱 Estou estudando React Native 
 - 💡  "As pessoas não sabem o que querem, até mostrarmos a elas."
 
 
