@@ -1,4 +1,4 @@
-## Oiii eu sou o Samuel Mesquita da Fonseca, é um prazer te conhecer!
+## Hello world Samuel Mesquita da Fonseca, gosto de joga Lol infelizmente!
 
 - 🔭 Hoje trabalho com Full Stack
 - 🌱 Estou estudando React Native 
